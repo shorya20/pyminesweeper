@@ -1,2 +1,2 @@
 # pyminesweeper
-Simple Minesweeper/Chess style game
+Simple Minesweeper/Chess style game 
